@@ -1,0 +1,17 @@
+.bg{
+    background: url(/image/bg1.jpg)no-repeat;
+    width:100%;
+    height: 100vh;
+    background-size: 100%;
+
+}
+
+.form-container{
+    position: absolute;
+    top:30vh;
+    background-color: ivory;
+    margin: auto;   
+    padding:50px;
+    width:500px;
+  border-radius:10px ;
+}
